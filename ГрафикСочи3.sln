@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ГрафикСочи3", "ГрафикСочи3\ГрафикСочи3.csproj", "{214EC1FD-ED20-4814-A215-46E52988CD40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{214EC1FD-ED20-4814-A215-46E52988CD40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{214EC1FD-ED20-4814-A215-46E52988CD40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{214EC1FD-ED20-4814-A215-46E52988CD40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{214EC1FD-ED20-4814-A215-46E52988CD40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9ED5CD2-AC18-4BD1-AD0D-3393F3C56462}
+	EndGlobalSection
+EndGlobal
