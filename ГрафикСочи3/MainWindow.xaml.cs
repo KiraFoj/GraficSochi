@@ -134,7 +134,7 @@ namespace ГрафикСочи3
 
                     double x2 = (canvasWidth / (weatherData.Count - 1)) * i;
                     double y2 = canvasHeight - (canvasHeight * weatherData[i] / 30);
-
+                    //
                     // Создание линии и добавление ее на Canvas
                     weatherCanvas.Dispatcher.Invoke(() =>
                     {
